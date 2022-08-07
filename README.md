@@ -1,2 +1,4 @@
 # Binadaki Kişi Sayısı Takibi
-Projemizde yoloV3 ile eğittimiz modelimiz ile düşük enerji kullanımı yapan bir kamera insanların kafasının üstünden tespit ederek bina giriş çıkışlarını kontrol etmekdir
+Kocaeli universitesindeki bitirme tezim.
+İlk olarak projemizde YoloV3 ile eğittimiz kafa modelimiz gereklidir yüksek boyut hatasından ekleyemedim.
+Düşük enerji kullanana Ip kameralar ile örneğin Esp32Cam ile tepe üstünden insanların anlık takibi ile giriş çıkış hesabı yapmaktadır.
